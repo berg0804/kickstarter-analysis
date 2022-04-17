@@ -18,5 +18,11 @@
 
 <img width="764" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/67160240/163720517-45c9276e-5351-4077-bac9-5818840e810a.PNG">
 
+### Challenges and Difficulties Encountered
 
+#### The analysis is limited to reviewing the funding goals and launch dates. There are numerous subset analyses that could be completed such as funding by category or country. Looking closer at the data could potentially better elucidate the effectiveness of Kickstarter campaigns. There also is not any context around the individual Kickstarter campaigns. For example, Kickstarter campaigns with better marketing or visibility may have better success rates.
+
+## Results
+
+### Two conclusions 
 
