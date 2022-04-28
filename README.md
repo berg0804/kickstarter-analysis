@@ -16,7 +16,7 @@
 
 ####  To analyze outcomes based on goals, a pivot chart was created that compared outcomes (successful, failed, canceled) by the funding goal. The funding goals were divided in $5,000 increments. A line chart is used to track outcomes.
 
-<img width="764" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/67160240/163720517-45c9276e-5351-4077-bac9-5818840e810a.PNG">
+<img width="397" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/67160240/165770937-f189a1d7-89fd-451f-a0d1-46cb3703688f.PNG">
 
 ### Challenges and Difficulties Encountered
 
